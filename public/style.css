@@ -1,0 +1,60 @@
+#navbar-brand {
+  width:150px;
+}
+#navbar-brand img {
+  height: 30px;
+  float: left;
+  margin-right: 7px;
+}
+.navbar{
+    background-color: black;
+}
+.navitem{
+    margin-right: 40px;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: violet;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+h4{
+    text-align: center;
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+#circleAvatar{
+    padding-top: 40px;
+    padding-left: 45%;
+}
+.navitem-font{
+    color: white;
+}
+#circle-button {
+    width: 150px; 
+    height: 50px; 
+    padding: 6px 0px; 
+    margin-top: 20px;
+    margin-left: 40%;
+    border-radius: 20px; 
+    font-size: 14px; 
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    text-align: center; 
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    color: grey;
+    text-align: center;
+    padding-bottom: 0px;
+    font-size: 15px;
+}
+#top{
+    padding-top: 10px;
+}
